@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Replace with your live domain after publishing, e.g. Sitemap: https://www.yoursite.com/sitemap.xml
+Sitemap: sitemap.xml

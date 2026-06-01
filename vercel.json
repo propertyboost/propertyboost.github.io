@@ -1,0 +1,4 @@
+{
+  "rewrites": [{ "source": "/", "destination": "/index.html" }],
+  "error": { "404": { "destination": "/404.html" } }
+}
